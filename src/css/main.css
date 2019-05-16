@@ -71,6 +71,22 @@
   }
 }
 
+.homeTabStyle{
+  border-radius:50px;
+  width:fit-content;
+}
+
+.previousProStyle{
+  border-radius:50px;
+  width:fit-content;
+  background-color:#447cc3; 
+  font-weight:bold
+}
+
+.draftProStyle{
+  border-radius:50px;
+  width:fit-content
+}
 
 
 /* product.js css */
@@ -79,4 +95,22 @@
 }
 .fontFamilyForGoal{
   font-family: Avenir;
+}
+.sideSpacing{
+  margin-top: -70px;
+}
+
+.fontFamilyForGoal{
+  border-radius:50px;
+  background-color:rgb(238, 238, 239);
+}
+
+.progressDiv1{
+  width: 40%;
+}
+.progressDiv1{
+  width: 10%;
+}
+.progressDiv1{
+  width: 50%;
 }
